@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+}
+#container123{
+    margin-top:50px;
+    width: 1200px;
+    height:auto;
+    float: none;
+    background-color:none;
+    padding:10px;
+    }
+    #left {
+    width: 550px;
+    float: left;
+    background-color: none;
+    text-align: left;
+    line-height: 0.75cm;
+    font-size: 14pt;
+    }
+    #right {
+    width: 550px;
+    float: right;
+    background-color:none;
+    }
+    #right img{
+    width: 550px;
+    height: 550px;
+    object-fit: cover; 
+    }
+    button{padding: 1%;}
+    button:hover{background-color: aqua;}
+    input{padding: 1%;}
+    table{padding: 10px 20px;}
+    table, th, td{
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+          }
+
+        
